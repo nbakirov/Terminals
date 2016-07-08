@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="kg.magnit.Terminals.MapsActivity">
+
+    <item
+        android:id="@+id/developer_info"
+        android:orderInCategory="50"
+        android:title="@string/title_activity_developer_info"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/terminals_list"
+        android:orderInCategory="40"
+        android:title="@string/title_activity_terminals_list"
+        android:icon="@drawable/map_icon"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/myposition"
+        android:orderInCategory="35"
+        android:title="@string/title_activity_terminals_list"
+        android:icon="@drawable/mylocation"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Terminals</string>
+    <string name="title_activity_maps">Карта терминалов</string>
+    <string name="title_activity_developer_info">О разработчике</string>
+    <string name="title_activity_terminals_list">Список терминалов</string>
+    <string name="title_activity_one_terminal">Терминал</string>
+</resources>
